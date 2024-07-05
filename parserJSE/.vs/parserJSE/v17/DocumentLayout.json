@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rosla\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Parsers\\parserJSE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B011A3F-D8B4-410D-8385-C8CE77CA8C86}|parserJSE\\parserJSE.csproj|c:\\users\\rosla\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\parsers\\parserjse\\parserjse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B011A3F-D8B4-410D-8385-C8CE77CA8C86}|parserJSE\\parserJSE.csproj|solutionrelative:parserjse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B011A3F-D8B4-410D-8385-C8CE77CA8C86}|parserJSE\\parserJSE.csproj|c:\\users\\rosla\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\parsers\\parserjse\\parserjse\\web.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B011A3F-D8B4-410D-8385-C8CE77CA8C86}|parserJSE\\parserJSE.csproj|solutionrelative:parserjse\\web.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B011A3F-D8B4-410D-8385-C8CE77CA8C86}|parserJSE\\parserJSE.csproj|c:\\users\\rosla\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\parsers\\parserjse\\parserjse\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B011A3F-D8B4-410D-8385-C8CE77CA8C86}|parserJSE\\parserJSE.csproj|solutionrelative:parserjse\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B011A3F-D8B4-410D-8385-C8CE77CA8C86}|parserJSE\\parserJSE.csproj|c:\\users\\rosla\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\parsers\\parserjse\\parserjse\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B011A3F-D8B4-410D-8385-C8CE77CA8C86}|parserJSE\\parserJSE.csproj|solutionrelative:parserjse\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B011A3F-D8B4-410D-8385-C8CE77CA8C86}|parserJSE\\parserJSE.csproj|c:\\users\\rosla\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\parsers\\parserjse\\parserjse\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B011A3F-D8B4-410D-8385-C8CE77CA8C86}|parserJSE\\parserJSE.csproj|solutionrelative:parserjse\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Csv.cs",
+              "DocumentMoniker": "C:\\Users\\rosla\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Parsers\\parserJSE\\parserJSE\\Csv.cs",
+              "RelativeDocumentMoniker": "parserJSE\\Csv.cs",
+              "ToolTip": "C:\\Users\\rosla\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Parsers\\parserJSE\\parserJSE\\Csv.cs",
+              "RelativeToolTip": "parserJSE\\Csv.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:03:43.364Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.cs",
+              "DocumentMoniker": "C:\\Users\\rosla\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Parsers\\parserJSE\\parserJSE\\Web.cs",
+              "RelativeDocumentMoniker": "parserJSE\\Web.cs",
+              "ToolTip": "C:\\Users\\rosla\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Parsers\\parserJSE\\parserJSE\\Web.cs",
+              "RelativeToolTip": "parserJSE\\Web.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:45:33.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\rosla\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Parsers\\parserJSE\\parserJSE\\App.config",
+              "RelativeDocumentMoniker": "parserJSE\\App.config",
+              "ToolTip": "C:\\Users\\rosla\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Parsers\\parserJSE\\parserJSE\\App.config",
+              "RelativeToolTip": "parserJSE\\App.config",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-05T16:28:46.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\rosla\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Parsers\\parserJSE\\parserJSE\\Parser.cs",
+              "RelativeDocumentMoniker": "parserJSE\\Parser.cs",
+              "ToolTip": "C:\\Users\\rosla\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Parsers\\parserJSE\\parserJSE\\Parser.cs",
+              "RelativeToolTip": "parserJSE\\Parser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:09:17.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rosla\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Parsers\\parserJSE\\parserJSE\\Program.cs",
+              "RelativeDocumentMoniker": "parserJSE\\Program.cs",
+              "ToolTip": "C:\\Users\\rosla\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Parsers\\parserJSE\\parserJSE\\Program.cs",
+              "RelativeToolTip": "parserJSE\\Program.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAuwHwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:56:37.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
